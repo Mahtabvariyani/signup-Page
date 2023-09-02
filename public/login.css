@@ -1,0 +1,11 @@
+body{
+    background-image: url(./backk.jpg);
+
+}
+
+
+div{
+    color: white;
+    backdrop-filter: blur(40px);
+
+}
